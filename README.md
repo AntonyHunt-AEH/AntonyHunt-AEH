@@ -7,12 +7,11 @@
 ### 🛠 Technical Toolkit
 *Bridging strategic vision with technical execution through Cloud-scale Data Science.*
 
-- **Languages:** ![Python](https://img.shields.io) ![R](https://img.shields.io) ![SQL](https://img.shields.io)
-- **Cloud:** ![GCP](https://img.shields.io)
-- **Specialisms:** 
-  ![Geospatial](https://img.shields.io) 
-  ![AI](https://img.shields.io) 
-  ![Predictive](https://img.shields.io)
+- **Languages:** Python (Primary), R, SQL
+- **Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
+- **Python Stack:** Pandas, Scikit-Learn, Matplotlib, Seaborn
+- **Geospatial Stack:** GeoPandas, Folium, Shapely
+- **Specialisms:** Geospatial Strategy, Agentic AI, Predictive Modelling
 
 ### 🌍 Applied Projects & Case Studies
 *Demonstrating the 'How' through high-stakes Data Science.*
