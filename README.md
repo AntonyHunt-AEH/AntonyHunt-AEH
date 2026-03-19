@@ -2,10 +2,9 @@
 
 **Current Focus:** Mastering Machine Learning and Artificial Intelligence at the **University of Cambridge**.
 
----
+### 🛠️ Technical Toolkit
 
-### 🛠 Technical Toolkit
-*Bridging strategic vision with technical execution through Cloud-scale Data Science.*
+Bridging strategic vision with technical execution through Cloud-scale Data Science.
 
 - **Languages:** ![Python](https://img.shields.io) ![R](https://img.shields.io) ![SQL](https://img.shields.io)
 - **Cloud:** ![GCP](https://img.shields.io)
